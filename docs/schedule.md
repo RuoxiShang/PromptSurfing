@@ -10,7 +10,7 @@ nav_order: 2
 - Case studies
 #### Class Reading Discussion
 - It's not just ChatGPT: Other LLMs & non-text systems (e.g. audio, text, 3d models)
-{: .activity }
+{: .warning }
 Playing with an LLM | in groups working, get ChatGPT to write a children's story. What do you notice?
 #### Other Readings
 - Researchers Gain New Understanding From Simple AI (a simplified explanation of "Attention is all you need", the transformers paper
