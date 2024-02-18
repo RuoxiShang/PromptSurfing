@@ -30,4 +30,4 @@ Break a GPT--working in groups to get ChatGPT to spit out something unexpected o
 - Can AI really be protected from text-based attacks?
 
 
-[Introduction to GenAI Applications]: https://RuoxiShang.github.io/promptsurfing/data/week1-applications.pdf
+[Introduction to GenAI Applications]: https://RuoxiShang.github.io/PromptSurfing/data/week1-applications.pdf
