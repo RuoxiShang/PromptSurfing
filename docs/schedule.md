@@ -4,13 +4,27 @@ title: Schedule
 nav_order: 2
 ---
 
-<div class="code-example" markdown="1">
+# Week 1 - 1/8/2024
+## Class Topic: Introductions
+### Short Intro Lecture
+- Case studies
+### Class Reading Discussion
+- It's not just ChatGPT: Other LLMs & non-text systems (e.g. audio, text, 3d models)
+{: .Activity }
+Playing with an LLM | in groups working, get ChatGPT to write a children's story. What do you notice?
+### Other Readings
+- Researchers Gain New Understanding From Simple AI (a simplified explanation of "Attention is all you need", the transformers paper
+- Characterizing Emergent Phenomena in Large Language Models (a blog post ABOUT some google research, this is a very handy short example of scaling in capabilities merely from increased size. An important thing to get from this is that we aren't sure of the mechanism)
 
-| Week  | Date     | Class Topic     | Short Intro Lecture                                                | Class Reading Discussion                                                                                                      | Class Activity                                                                                                   | Other Readings                                                                                                                                                                                                                                                                                                      |
-|-------|----------|-----------------|---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1     | 1/8/2024 | Introductions   | Case studies                                                       | It's not just ChatGPT: Other LLMs & non-text systems (e.g. audio, text, 3d models)                                            | Playing with an LLM \| in groups working, get ChatGPT to write a children's story. What do you notice?          | Researchers Gain New Understanding From Simple AI (a simplified explanation of "Attention is all you need", the transformers paper), Characterizing Emergent Phenomena in Large Language Models (a blog post ABOUT some google research, this is a very handy short example of scaling in capabilities merely from increased size. An important thing to get from this is that we aren't sure of the mechanism) |
-| 2     | Holiday  |                 |                                                                     |                                                                                                                                |                                                                                                                  |                                                                                                                                                                                                                                                                                                                    |
-| 3     | 1/22/2024| Text            | What does it mean to generate text? (AH) "What is a token?" "what is a token window?" "what is a transformer? | Talking about Large Language Models (from a researcher at Deepmind, this is useful for terms and concepts as well as a good guide for how to think about these systems as a whole. | Break a GPT--working in groups to get ChatGPT to spit out something unexpected or aberrant. "what do I mean by break?" "can we define breakage?" | Chatbots Don’t Know What Stuff Isn’t, Can AI really be protected from text-based attacks?                                                                                                                                                                                                                            |
-
-
-</div>
+# Week 2 - Holiday
+# Week 3 - 1/22/2024
+## Class Topic: Text
+### Short Intro Lecture
+- What does it mean to generate text? (AH) "What is a token?" "what is a token window?" "what is a transformer?
+### Class Reading Discussion
+- Talking about Large Language Models (from a researcher at Deepmind, this is useful for terms and concepts as well as a good guide for how to think about these systems as a whole.
+{: .Activity }
+Break a GPT--working in groups to get ChatGPT to spit out something unexpected or aberrant. "what do I mean by break?" "can we define breakage?"
+### Other Readings
+- Chatbots Don’t Know What Stuff Isn’t
+- Can AI really be protected from text-based attacks?
