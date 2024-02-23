@@ -4,5 +4,5 @@ title: Projects
 nav_order: 3
 ---
 
-{: .warning }
+{: .new }
 Coming Soon!

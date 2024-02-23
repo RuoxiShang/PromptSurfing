@@ -8,6 +8,7 @@ nav_order: 2
 1/8/2024
 ### Class Topic: Introductions
 ### Short Intro Lecture
+{: .note }
 [Introduction to GenAI Applications]
 - Disentangling all those AI-related terminologies
 - Examples of Gen AI applications in Research & Industry
