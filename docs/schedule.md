@@ -52,7 +52,6 @@ Break a GPT--working in groups to get ChatGPT to spit out something unexpected o
 - Short intro to Interpretability in ML
 - What do we mean by interpreting LLMs
 - Examples of research studies on interpreting LLMs
-
 ### Class Reading Discussion
 ### Activity
 ### Other Readings
