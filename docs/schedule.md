@@ -9,8 +9,7 @@ nav_order: 2
 ### Class Topic: Introductions
 
 {: .note }
-Short Intro Lecture
-
+Introduce the course topic and structure as well as some case studies
 
 
 [Introduction to GenAI Applications]
