@@ -4,13 +4,75 @@ title: Schedule
 nav_order: 2
 ---
 
+# Prompt Surfing DRG - Course Schedule
+
+> Note: All activities and readings are subject to change as we explore this throughout the quarter. Check Canvas for actual due dates.
+
+## Week 1 (1/8/2024) - Introductions
+
+### Topics
+- Introduce the course topic and structure as well as some case studies
+
+### Discussions and Activities
+- Introductions, expectations, and student projects
+- Setting the stage: What is prompt engineering?
+- Case studies (AS)
+- It's not just ChatGPT: Other LLMs & non-text systems (e.g., audio, text, 3D models) (AH)
+- What to do for next week, using Canvas, and how to read a paper (AS)
+
+### Central Activity
+- Playing with an LLM: In groups, get ChatGPT to write a children's story. What do you notice?
+
+### Required Reading
+- [All Gas, No Brakes in A.I. + Metaverse Update + Lessons From a Prompt Engineer](https://www.nytimes.com/2023/02/10/podcasts/hard-fork-anthropic-ai-metaverse.html) (1hr podcast)
+
+### Additional Resources
+- [Researchers Gain New Understanding From Simple AI](https://www.quantamagazine.org/researchers-gain-new-understanding-from-simple-ai-20230210/)
+- [Characterizing Emergent Phenomena in Large Language Models](https://www.anthropic.com/index/characterizing-emergent-phenomena-in-large-language-models)
+- [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
+- [Awesome-LLM: A curated list of Large Language Model(s)](https://github.com/Hannibal046/Awesome-LLM)
+- [A list of open LLMs available for commercial use](https://www.infoq.com/news/2023/02/open-llm-commercial-use/)
+- [Prompt Engineering blog post from Lillian Weng](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
+- [Eight Things to Know about Large Language Models](https://www.anthropic.com/index/eight-things-to-know-about-large-language-models)
+
+## Week 2 - HOLIDAY
+
+## Week 3 (1/22/2024) - Text
+
+### Topics
+- Explanation of text generation and exploration of an open-source alternative to ChatGPT, including an exercise with model guardrails
+
+### Discussions and Activities
+- Reading discussion
+- What does it mean to generate text? (AH)
+  - What is a token?
+  - What is a token window?
+  - What is a transformer?
+- Intro to "Break a GPT"
+  - AS does point of view shifts
+  - AH does "I like to pretend"
+
+### Central Activity
+- Break a GPT: Working in groups to get ChatGPT to spit out something unexpected or aberrant
+  - What do I mean by break?
+  - Can we define breakage?
+
+### Required Reading
+- [Talking about Large Language Models](https://www.lesswrong.com/posts/6Fzp7pFQmyFMdytYe/talking-about-large-language-models-1)
+
+### Additional Resources
+- [Chatbots Don't Know What Stuff Isn't](https://www.quantamagazine.org/chatbots-dont-know-what-stuff-isnt-20230216/)
+- [Can AI really be protected from text-based attacks?](https://www.technologyreview.com/2023/02/15/1068329/chatgpt-ai-text-based-attacks-adversarial/)
+- [Adversarial Attacks on LLMs](https://lilianweng.github.io/posts/2023-02-19-lm-attack/)
+- [Google's attempt to "break GPT" by extracting training data](https://www.overclock.net/threads/googles-attempt-to-break-gpt-by-extracting-training-data.1829951/)
+- [Breaking a GPT-3 powered Twitter bot by asking it to "ignore all previous instructions"](https://twitter.com/jessicarayerobot/status/1545231192307265537)
+- [NIST research report on adversarial machine learning input](https://www.nist.gov/publications/adversarial-machine-learning-and-adversarial-examples)
+
 ## Week 1
 1/8/2024
 ### Class Topic: Introductions
 
-{: .note }
 Introduce the course topic and structure as well as some case studies
-
 
 [Introduction to GenAI Applications]
 - Disentangling all those AI-related terminologies
