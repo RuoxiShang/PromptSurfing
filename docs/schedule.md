@@ -5,8 +5,6 @@ nav_order: 2
 ---
 # Prompt Surfing DRG - Course Schedule
 
-> Note: All activities and readings are subject to change as we explore this throughout the quarter. Check Canvas for actual due dates.
-
 ## Week 1 (1/8/2024) - Introductions
 
 ### Topics
@@ -25,13 +23,13 @@ nav_order: 2
 - [All Gas, No Brakes in A.I. + Metaverse Update + Lessons From a Prompt Engineer](https://www.nytimes.com/2023/09/29/podcasts/all-gas-no-brakes-in-ai-metaverse-update-lessons-from-a-prompt-engineer.html?action=click&module=audio-series-bar&region=header&pgtype=Article) (1hr podcast)
 
 ### Additional Resources
-- [Researchers Gain New Understanding From Simple AI](https://www.quantamagazine.org/researchers-glimpse-how-ai-gets-so-good-at-language-processing-20220414/)
-- [Characterizing Emergent Phenomena in Large Language Models](https://blog.research.google/2022/11/characterizing-emergent-phenomena-in.html#:~:text=In%20%E2%80%9CEmergent%20Abilities%20of%20Large,are%20present%20in%20larger%20models.)
-- [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
-- [Awesome-LLM: A curated list of Large Language Model(s)](https://github.com/Hannibal046/Awesome-LLM)
-- [A list of open LLMs available for commercial use](https://github.com/eugeneyan/open-llms)
+- [Researchers Gain New Understanding From Simple AI](https://www.quantamagazine.org/researchers-glimpse-how-ai-gets-so-good-at-language-processing-20220414/)(this is a simplified explanation of "Attention is all you need", the transformers paper)
+- [Characterizing Emergent Phenomena in Large Language Models](https://blog.research.google/2022/11/characterizing-emergent-phenomena-in.html#:~:text=In%20%E2%80%9CEmergent%20Abilities%20of%20Large,are%20present%20in%20larger%20models.) (a blog post ABOUT some google research, this is a very handy short example of scaling in capabilities merely from increased size. An important thing to get from this is that we aren't sure of the mechanism)
+- [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258) (an absolutely GARGANTUAN guide to foundation models (ie LLMs and the like) in AI. 200 pages so defintely an "optional" read)
+- [Awesome-LLM: A curated list of Large Language Model(s)](https://github.com/Hannibal046/Awesome-LLM)(a community generated repository of papers and links to code for large language models)
+- [A list of open LLMs available for commercial use](https://github.com/eugeneyan/open-llms)(another list of LLMs, here exclusively those with licenses appropriate for commercial use.)
 - [Prompt Engineering blog post from Lillian Weng](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
-- [Eight Things to Know about Large Language Models](https://arxiv.org/abs/2304.00612)
+- [Eight Things to Know about Large Language Models](https://arxiv.org/abs/2304.00612) (a high level review from an Anthropic researcher. Very valuable for a broad understanding of some capabilities.)
 
 ## Week 2 - HOLIDAY
 
@@ -56,15 +54,15 @@ nav_order: 2
   - Can we define breakage?
 
 ### Required Reading
-- [Talking about Large Language Models](https://arxiv.org/abs/2212.03551)
+- [Talking about Large Language Models](https://arxiv.org/abs/2212.03551)(from a researcher at Deepmind, this is useful for terms and concepts as well as a good guide for how to think about these systems as a whole.)
 
 ### Additional Resources
-- [Chatbots Don't Know What Stuff Isn't](https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/)
-- [Can AI really be protected from text-based attacks?](https://techcrunch.com/2023/02/24/can-language-models-really-be-protected-from-text-based-attacks/)
-- [Adversarial Attacks on LLMs](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
+- [Chatbots Don't Know What Stuff Isn't](https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/)(from Quanta Magazine this article does a good job of illustrating early troubles with handling negation in language models. Pay special attention to some of the proposed reasons AND issues in assessing progress since inspection is so difficult.)
+- [Can AI really be protected from text-based attacks?](https://techcrunch.com/2023/02/24/can-language-models-really-be-protected-from-text-based-attacks/)(A short general interest article hinting at problems with safety mechanisms on LLMs introducing a difficult and complex space to protect.)
+- [Adversarial Attacks on LLMs](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)(a more technical post from Lillian Weng)
 - An illustrated explanation of NLP transformer based models [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning](https://jalammar.github.io/illustrated-bert/)
 - [Google's attempt to "break GPT" by extracting training data](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html?ref=404media.co)
-- Breaking a GPT-3 powered Twitter bot by asking it to []"ignore all previous instructions"](https://www.aiweirdness.com/ignore-all-previous-instructions/)
+- Breaking a GPT-3 powered Twitter bot by asking it to ["ignore all previous instructions"](https://www.aiweirdness.com/ignore-all-previous-instructions/)
 - NIST [research report on adversarial machine learning input](https://csrc.nist.gov/pubs/ai/100/2/e2023/final) input more broadly, not just with Large Language Models.
 
 ## Week 4 (1/29/2024) - Images
