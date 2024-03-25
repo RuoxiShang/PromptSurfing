@@ -5,7 +5,7 @@ nav_order: 1
 ---
 ## Wecome to the class website for Winter 2024 Prompt Surfing Directed Research Group (DRG)!
 
-Instructors: [Dr. Brock Craft], [Adam Hyland], [Ruoxi (Anna) Shang]
+Instructors: [Adam Hyland], [Ruoxi (Anna) Shang], [Dr. Brock Craft]
 
 Meeting Time: 1:00 p.m. - 2:30 p.m. Mondays, Winter Quarter, Sieg 429
 
