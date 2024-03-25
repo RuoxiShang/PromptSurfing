@@ -25,13 +25,13 @@ nav_order: 2
 - [All Gas, No Brakes in A.I. + Metaverse Update + Lessons From a Prompt Engineer](https://www.nytimes.com/2023/02/10/podcasts/hard-fork-anthropic-ai-metaverse.html) (1hr podcast)
 
 ### Additional Resources
-- [Researchers Gain New Understanding From Simple AI](https://www.quantamagazine.org/researchers-gain-new-understanding-from-simple-ai-20230210/)
-- [Characterizing Emergent Phenomena in Large Language Models](https://www.anthropic.com/index/characterizing-emergent-phenomena-in-large-language-models)
+- [Researchers Gain New Understanding From Simple AI](https://www.quantamagazine.org/researchers-glimpse-how-ai-gets-so-good-at-language-processing-20220414/)
+- [Characterizing Emergent Phenomena in Large Language Models](https://blog.research.google/2022/11/characterizing-emergent-phenomena-in.html#:~:text=In%20%E2%80%9CEmergent%20Abilities%20of%20Large,are%20present%20in%20larger%20models.)
 - [On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
 - [Awesome-LLM: A curated list of Large Language Model(s)](https://github.com/Hannibal046/Awesome-LLM)
-- [A list of open LLMs available for commercial use](https://www.infoq.com/news/2023/02/open-llm-commercial-use/)
+- [A list of open LLMs available for commercial use](https://github.com/eugeneyan/open-llms)
 - [Prompt Engineering blog post from Lillian Weng](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
-- [Eight Things to Know about Large Language Models](https://www.anthropic.com/index/eight-things-to-know-about-large-language-models)
+- [Eight Things to Know about Large Language Models](https://arxiv.org/abs/2304.00612)
 
 ## Week 2 - HOLIDAY
 
