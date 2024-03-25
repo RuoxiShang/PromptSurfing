@@ -22,7 +22,7 @@ nav_order: 2
 - Playing with an LLM: In groups, get ChatGPT to write a children's story. What do you notice?
 
 ### Required Reading
-- [All Gas, No Brakes in A.I. + Metaverse Update + Lessons From a Prompt Engineer](https://www.nytimes.com/2023/02/10/podcasts/hard-fork-anthropic-ai-metaverse.html) (1hr podcast)
+- [All Gas, No Brakes in A.I. + Metaverse Update + Lessons From a Prompt Engineer](https://www.nytimes.com/2023/09/29/podcasts/all-gas-no-brakes-in-ai-metaverse-update-lessons-from-a-prompt-engineer.html?action=click&module=audio-series-bar&region=header&pgtype=Article) (1hr podcast)
 
 ### Additional Resources
 - [Researchers Gain New Understanding From Simple AI](https://www.quantamagazine.org/researchers-glimpse-how-ai-gets-so-good-at-language-processing-20220414/)
@@ -56,15 +56,16 @@ nav_order: 2
   - Can we define breakage?
 
 ### Required Reading
-- [Talking about Large Language Models](https://www.lesswrong.com/posts/6Fzp7pFQmyFMdytYe/talking-about-large-language-models-1)
+- [Talking about Large Language Models](https://arxiv.org/abs/2212.03551)
 
 ### Additional Resources
-- [Chatbots Don't Know What Stuff Isn't](https://www.quantamagazine.org/chatbots-dont-know-what-stuff-isnt-20230216/)
-- [Can AI really be protected from text-based attacks?](https://www.technologyreview.com/2023/02/15/1068329/chatgpt-ai-text-based-attacks-adversarial/)
-- [Adversarial Attacks on LLMs](https://lilianweng.github.io/posts/2023-02-19-lm-attack/)
-- [Google's attempt to "break GPT" by extracting training data](https://www.overclock.net/threads/googles-attempt-to-break-gpt-by-extracting-training-data.1829951/)
-- [Breaking a GPT-3 powered Twitter bot by asking it to "ignore all previous instructions"](https://twitter.com/jessicarayerobot/status/1545231192307265537)
-- [NIST research report on adversarial machine learning input](https://www.nist.gov/publications/adversarial-machine-learning-and-adversarial-examples)
+- [Chatbots Don't Know What Stuff Isn't](https://www.quantamagazine.org/ai-like-chatgpt-are-no-good-at-not-20230512/)
+- [Can AI really be protected from text-based attacks?](https://techcrunch.com/2023/02/24/can-language-models-really-be-protected-from-text-based-attacks/)
+- [Adversarial Attacks on LLMs](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
+- An illustrated explanation of NLP transformer based models [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning](https://jalammar.github.io/illustrated-bert/)
+- [Google's attempt to "break GPT" by extracting training data](https://not-just-memorization.github.io/extracting-training-data-from-chatgpt.html?ref=404media.co)
+- Breaking a GPT-3 powered Twitter bot by asking it to []"ignore all previous instructions"](https://www.aiweirdness.com/ignore-all-previous-instructions/)
+- NIST [research report on adversarial machine learning input](https://csrc.nist.gov/pubs/ai/100/2/e2023/final) input more broadly, not just with Large Language Models.
 
 ## Week 4 (1/29/2024) - Images
 
@@ -83,11 +84,12 @@ nav_order: 2
 - Getting started with a project: Get together to talk about project ideas
 
 ### Required Reading
-- [The art of text-to-image generative AI](https://www.wired.com/story/image-generators-ai-art-bruce-sterling-speech/) (a transcript of a talk by Bruce Sterling on Dall-E Mini)
+- [The art of text-to-image generative AI](https://networkcultures.org/blog/2023/05/17/bruce-sterling-on-the-art-of-text-to-image-generative-ai/) (a transcript of a talk by Bruce Sterling on Dall-E Mini)
 
 ### Additional Resources
-- [Hands Are Hard: Unlearning How We Talk About Machine Learning in the Arts](https://www.youtube.com/watch?v=sVmG2KnnkRc)
-- [One Vision of Machine Art](https://www.lesswrong.com/posts/qXkwBGtqgR5rDh4mh/one-vision-of-machine-art) (a short prompt looking at two passages in an H.P. Lovecraft story from the 1930s with eerie parallels to generative art)
+- [Hands Are Hard: Unlearning How We Talk About Machine Learning in the Arts](https://digitalscholarship.unlv.edu/tradition_innovations/vol1/iss1/4/)
+- [Looking for Meaning in all the Wrong Places](https://www.youtube.com/watch?v=r-V-qqLJLF8&t=3s)
+- [One Vision of Machine Art](https://docs.google.com/document/d/1Fuvf2imJJyEWXb22OezkpOMsFacesETIIZYi1GIPkQc/edit?usp=sharing) (a short prompt looking at two passages in an H.P. Lovecraft story from the 1930s with eerie parallels to generative art)
 - [The Illustrated Stable Diffusion](https://jalammar.github.io/illustrated-stable-diffusion/)
 - [GitHub page for the Latent Diffusion model paper](https://github.com/CompVis/latent-diffusion) (formed the kernel of what has become Stable Diffusion)
 
@@ -106,18 +108,17 @@ nav_order: 2
 - Play with an image generator
 
 ### Required Reading
-- [Objective Portrait: A practice-based inquiry to explore AI as a reflective design partner](https://dl.acm.org/doi/10.1145/3490149.3519848)
+- [Objective Portrait: A practice-based inquiry to explore AI as a reflective design partner](https://dl.acm.org/doi/abs/10.1145/3563657.3595974)
 
 ### Additional Resources
-- [AI Transparency in the Age of LLMs: A Human-Centered Research Roadmap](https://arxiv.org/abs/2302.05664)
-- [Looking for Meaning in all the Wrong Places](https://www.lesswrong.com/posts/qGZZbkMZS4WhGPt4j/looking-for-meaning-in-all-the-wrong-places) (highly optional)
+- [AI Transparency in the Age of LLMs: A Human-Centered Research Roadmap](https://arxiv.org/pdf/2306.01941.pdf)
 - [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/)
-- [The debate over understanding in AI's large language models](https://arstechnica.com/information-technology/2023/02/the-debate-over-understanding-in-ais-large-language-models/)
+- [The debate over understanding in AI's large language models](https://www.pnas.org/doi/full/10.1073/pnas.2215907120)
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
-- [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916) (the genesis of "let's think step by step" LLM prompting research)
-- [Large Language Models Cannot Self-Correct Reasoning](https://arxiv.org/abs/2302.05760) (a technical but critical look at the problem of correction, specifically the problem of self-correction)
-- [The Internal State of an LLM Knows When It's Lying](https://arxiv.org/abs/2302.10392) (an attempt to inspect internal states about the information produced by the model)
-- [Can Language Models Encode Perceptual Structure Without Grounding? A Case Study in Color](https://arxiv.org/abs/2209.03576)
+- [Large Language Models are Zero-Shot Reasoners](https://proceedings.neurips.cc/paper_files/paper/2022/file/8bb0d291acd4acf06ef112099c16f326-Paper-Conference.pdf) (the genesis of "let's think step by step" LLM prompting research)
+- [Large Language Models Cannot Self-Correct Reasoning](https://huggingface.co/papers/2310.01798) (a technical but critical look at the problem of correction, specifically the problem of self-correction)
+- [The Internal State of an LLM Knows When It's Lying](https://arxiv.org/pdf/2304.13734.pdf) (an attempt to inspect internal states about the information produced by the model)
+- [Can Language Models Encode Perceptual Structure Without Grounding? A Case Study in Color](https://arxiv.org/pdf/2109.06129.pdf)
 
 ## Week 6 (2/12/2024) - Change
 
@@ -132,13 +133,14 @@ nav_order: 2
 - Consultation (AH, AS, BC): 3 groups (4 people per group), 15 min per person
 
 ### Required Reading
-- ['Person' == Light-skinned, Western Man, and Sexualization of Women of Color: Stereotypes in Stable Diffusion](https://arxiv.org/abs/2302.10401) (a paper from UW researchers on stereotypes in Stable Diffusion)
+- ['Person' == Light-skinned, Western Man, and Sexualization of Women of Color: Stereotypes in Stable Diffusion](https://aclanthology.org/2023.findings-emnlp.465.pdf) (a paper from UW researchers on stereotypes in Stable Diffusion)
 
 ### Additional Resources
 - [Robust fine-tuning of zero-shot models](https://arxiv.org/abs/2109.01903) (demonstrates that making a weighted sum of the matrix of model weights of two LLMs produces a merged model with a weighted sum of the concept understandings of the two)
 - [An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion](https://arxiv.org/abs/2208.01618) (the first research paper to demonstrate that lightweight collections of tokens could be built by training images and be used to stand in for a complex prompt)
-- [A GitHub Next project evaluating GPT-4 performance with calculation](https://github.blog/2023-03-14-gpt-4-is-coming-to-github-copilot-and-github-next/) (spoiler: not great!)
-- [A more detailed demonstration of ChatGPT math performance over time](https://arxiv.org/abs/2303.11938) (by researchers at Stanford)
+- [Local Large Language Models](https://int8.io/local-large-language-models-beginners-guide/) (A highly technical but not academic guide to Local LLMs and fine-tuning. It also includes and explanation of how LoRAs work.)
+- [A GitHub Next project evaluating GPT-4 performance with calculation](https://github.com/githubnext/gpt4-with-calc/blob/main/docs/eval.md) (spoiler: not great!)
+- [ChatGPT math performance over time](https://arxiv.org/abs/2307.09009) (A more detailed demonstration by researchers at Stanford)
 
 ## Week 7 - HOLIDAY
 
@@ -158,9 +160,11 @@ nav_order: 2
 - No reading for this week. Focus on your collaborative critique submission and your project.
 
 ### Additional Resources
-- [Vanderbilt University apologizes for using ChatGPT to write mass-shooting email](https://www.insidehighered.com/news/2023/03/20/vanderbilt-ai-generated-email-about-michigan-state-shooting)
-- [Temporary policy: Generative AI (e.g., ChatGPT) is banned](https://www.reddit.com/r/ProgrammerHumor/comments/11vp0g5/temporary_policy_generative_ai_eg_chatgpt_is/)
-- [ChatGPT use shows that the grant-application system is broken](https://www.nature.com/articles/d41586-023-00712-y)
+- [Vanderbilt University apologizes for using ChatGPT to write mass-shooting email](https://www.cnn.com/2023/02/22/tech/vanderbilt-chatgpt-shooting-email/index.html)
+- [Temporary policy: Generative AI (e.g., ChatGPT) is banned](https://meta.stackoverflow.com/questions/421831/temporary-policy-generative-ai-e-g-chatgpt-is-banned)
+- [ChatGPT use shows that the grant-application system is broken](https://www.nature.com/articles/d41586-023-03238-5)
+- A [good debate](https://julianmichael.org/blog/2020/07/23/to-dissect-an-octopus.html) from two linguist/philosophers on how to think about meaning and chatbots. Rather than John Searle's Chinese room they think about...an octopus!
+- A [magazine article](https://visualstudiomagazine.com/articles/2024/01/25/copilot-research.aspx) summarizing recent work showing the potentially bad impact of code-assistant tools like CoPilot on code quality
 
 ## Week 9 (3/4/2024) - Testing
 
@@ -179,9 +183,7 @@ nav_order: 2
 - No reading for this week. Focus on your project.
 
 ### Additional Resources
-- [Why Meta's latest large language model survived only three days online](https://www.technologyreview.com/2023/02/28/1069555/meta-llama-ai-large-language-model-dangers/)
-- [A good debate from two linguist/philosophers on how to think about meaning and chatbots](https://dailynous.com/2023/03/08/schneider-and-sebo-on-whether-chatgpt-is-a-person/) (Rather than John Searle's Chinese room, they think about an octopus!)
-- [A magazine article summarizing recent work showing the potentially bad impact of code-assistant tools like CoPilot on code quality](https://futurism.com/chatbots-copilot-programmers-worse-study)
+- [Why Meta's latest large language model survived only three days online](https://www.technologyreview.com/2022/11/18/1063487/meta-large-language-model-ai-only-survived-three-days-gpt-3-science/)
 
 ## Week 10 (3/11/2024) - Feedback
 
